@@ -1,20 +1,36 @@
-.Name {
-  text-align: center;
-  font-size: 100%;
-}
-
 body {
-  font-family: Garamond;
-  font-size: 125%;
-  margin: 190%, 20%;
+    margin:0% 5%;
+    background-color:#E0E0E0;
+    font-family:Garamond,Arial, Helvetica, sans-serif;
+}
+.Name {
+    text-align: center;
+    font-size: 125%;
+    font-weight: bolder;
+  }
+
+li {
+    font-size:larger;
 }
 
-.edu-header{
- text-transform: uppercase;
+ul {
+    font-weight:normal;
 }
-
-.School{
-  padding-bottom:0;
-  margin-bottom:0;
-  border-top: 2px solid black
+  
+.edu-header {
+    margin-top: 0;
+    padding-top: 0;
+    border-bottom: 1px solid black;
+}
+.Degree {
+    margin-top: -1.25rem;
+}
+.Skills {
+    border-bottom: 1px solid black;
+}
+.Tech {
+        margin-top: -1.25rem;
+}
+.exp-header {
+    border-bottom: 1px solid black;
 }
