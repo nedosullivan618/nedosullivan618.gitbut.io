@@ -1,14 +1,20 @@
-.Name{
+.Name {
   text-align: center;
-  font-size: 60%;
+  font-size: 100%;
 }
 
 body {
   font-family: Garamond;
+  font-size: 125%;
+  margin: 190%, 20%;
 }
 
-.Fidelity {
-  text-indent: 25px;
+.edu-header{
+ text-transform: uppercase;
 }
 
-.
+.School{
+  padding-bottom:0;
+  margin-bottom:0;
+  border-top: 2px solid black
+}
